@@ -12,9 +12,9 @@ open to research collabs, internships & anything that ships.  ·  working on o
 
 <br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/profile-3d-contrib/profile-season-animate.svg">
-  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADITYALONE/ADITYALONE/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ADITYALONE/ADITYALONE/main/profile-3d-contrib/profile-season-animate.svg">
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/ADITYALONE/ADITYALONE/main/profile-3d-contrib/profile-night-rainbow.svg">
 </picture>
 <br/><br/>
 </div>
