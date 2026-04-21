@@ -1,5 +1,5 @@
 <div align="center">
-<br/><br/>
+<br/>Aditya<br/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=48&duration=999999&pause=999999&color=FFFFFF&center=true&vCenter=true&width=400&lines=ADITYA." alt="ADITYA." />
 <br/>
 cs · data science · statistics  ·  uw–madison
